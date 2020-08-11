@@ -1,0 +1,45 @@
+.main__header.header {
+  padding: 14px 0;
+
+  .header__user-panel {
+    margin-top: 16px;
+  }
+
+  .header__phone {
+    span {
+      display: inline-block;
+
+      &:first-child {
+        font-size: $baseFontSizeAsRem * 1.5;
+      }
+
+      &:last-child {
+        font-size: $baseFontSizeAsRem * 0.625;
+      }
+    }
+  }
+
+  .header__language {
+    margin-left: 24px;
+  }
+
+  .header__logo {
+    width: 170px;
+    height: 45px;
+    background: #000; // todo temp
+  }
+
+  .header__search {}
+
+  .header__navigation {
+    margin-top: 16px;
+
+    .navigation__list {
+      padding: 0 16px;
+
+      .item {
+        margin-right: 36px; // todo temp
+      }
+    }
+  }
+}

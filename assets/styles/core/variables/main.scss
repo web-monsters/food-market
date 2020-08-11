@@ -1,0 +1,32 @@
+// ----- fonts
+$mainFont: 'Arial'; // todo font & fallback
+$baseFontSize: 16px;
+$baseFontSizeAsRem: 1rem;
+
+// ----- containers
+$baseContainerWidth: 1300px;
+$baseContainerPadding: 16px;
+
+// ----- colors
+$colorBlack: rgba(0, 0, 0, 1);
+$colorWhite: rgba(255, 255, 255, 1);
+$colorLightGray: #EEEEEE;
+
+$baseBackgroundColor: lighten(blue, 47%);
+
+
+
+
+
+//$colorGray: #d2d3d4;
+//$colorAccentMain: #ee0b06;
+//$colorLightSub: #e5e5e5;
+//$colorGrayDark: #919191;
+//$colorDarkSub: #424242;
+//$colorTextDark: #151515;
+//$colorMarkSub: #999999;
+//$colorDarkMain: #1a1a1a;
+//$colorMarkMain: #c6c6c6;
+//$colorAccentSub: #f24942;
+//$colorDividerLightGrey: #f3f3f3;
+//$colorBlueLink: #00679b;
