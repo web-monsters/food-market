@@ -3,7 +3,7 @@
 </template>
 
 <script>
-  import homePage from '~/components/pages/home/main.vue';
+  import homePage from '~/modules/HomePage/index.vue';
 
   export default {
     layout: 'default-layout',

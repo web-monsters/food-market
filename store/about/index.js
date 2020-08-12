@@ -4,7 +4,7 @@ export const state = () => ({
 });
 
 export const mutations = {
-  SET_CURRENT_USER (state, user) {
+  SET_CURRENT_USER(state, user) {
     state.currentUser = user;
   },
 };

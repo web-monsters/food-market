@@ -24,8 +24,7 @@
   }
 
   .header__logo {
-    width: 170px;
-    height: 45px;
+    @include size(170px, 45px);
     background: #000; // todo temp
   }
 

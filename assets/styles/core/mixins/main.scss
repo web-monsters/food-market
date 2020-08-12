@@ -25,3 +25,8 @@
   bottom: $bottom;
   left: $left;
 }
+
+@mixin size($width, $height) {
+  width: $width;
+  height: $height;
+}

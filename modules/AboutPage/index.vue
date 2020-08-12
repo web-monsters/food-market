@@ -27,3 +27,5 @@
     },
   }
 </script>
+
+<style lang="scss" src="./styles/index.scss" />

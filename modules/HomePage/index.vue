@@ -1,7 +1,7 @@
 <template>
-  <div class="main__footer">
+  <div class="home-page">
     <div class="flex-container ai-center jc-space-between">
-      footer
+      <p>home page</p>
     </div>
   </div>
 </template>
@@ -11,3 +11,5 @@
 
   }
 </script>
+
+<style lang="scss" src="./styles/index.scss" />

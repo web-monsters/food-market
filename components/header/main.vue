@@ -5,7 +5,6 @@
     <userPanel />
 
     <navigation />
-
   </header>
 </template>
 
