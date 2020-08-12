@@ -1,9 +1,7 @@
 {
-  "name": "lapti-new",
+  "name": "nyam",
   "version": "1.0.0",
-  "description": "new life to lapti",
-  "author": "roman bogdanov <cflatminor92@gmail.com>",
-  "private": true,
+  "description": "food delivery",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
